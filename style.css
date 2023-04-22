@@ -1,0 +1,133 @@
+html{
+    padding-left: 50px;
+}
+body{
+    width: 1000px;
+    height: 1000px;
+    background-color: black;
+    padding-left: 10px;
+}
+#navbar{
+    background-color: yellow;
+border: 1px solid yellow;
+overflow: auto;
+height: 100px;
+}
+#navbar ul li{
+    display: inline-block;
+    padding: 0px 0px;
+    text-decoration: none;
+}
+#navbar ul li a{
+    margin-left: 30px;
+    text-decoration: none;
+    color: inherit;
+
+}
+button{
+    background-color: yellow;
+width: 100px;
+    border: 5px solid yellow ;
+    border-radius: 10px;
+}
+#h3{
+    margin-right: 500px;
+    padding-left: 10px;
+}
+p{
+    width: 800px;
+    color: aliceblue;
+}
+img{
+    float: right;
+    width: 200px;
+    padding: 20px 0;
+    margin-top: -150px;
+
+}
+#div1{
+    margin-bottom: 40px;
+    margin-left: 15px;
+}
+#div2{
+    margin-left: 15px;
+}
+.name{
+    width: 1000px;
+    border-radius: 20px;
+    border: 1px solid yellow;
+    background-color: black;
+padding: 10px 0px;
+color: yellow;
+}
+h2{
+    color: white;
+    font: 400;
+}
+h1{
+color: yellow;
+}
+.email{
+    width: 1000px;
+    border-radius: 20px;
+    border: 1px solid yellow;
+    background-color: black;
+padding: 10px 0px;
+}
+.Mobile{
+    width: 480px;
+    border-radius: 20px;
+    border: 1px solid yellow;
+    background-color: black;
+padding: 10px 0px;
+}
+.city{
+    width: 490px;
+    border-radius: 20px;
+    border: 1px solid yellow;
+    background-color: black;
+padding: 10px 0px;
+margin-top: -50px;
+float: right;
+}
+#btn{
+    margin-left: 450px;
+}
+table{
+    border: 1px solid yellow; 
+    color: yellow;
+    border-collapse: collapse;
+    width: 100%;
+text-align: center;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 15px;
+    
+}
+th{
+    border: 1px solid yellow;
+    color: yellow;
+    border-collapse: collapse;
+    width: 33.%;
+}
+
+tfoot{
+    border: 1px solid yellow;
+    color: yellow;
+    border-collapse: collapse;  
+    background-color: yellow;
+    color: black;
+}
+td{
+    border: 1px solid yellow;
+    
+
+}
+.td3{
+    border: 1px solid black;
+    width: 50px;
+}
+::placeholder{
+    padding-left: 20px;
+    color: yellow;
+}
